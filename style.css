@@ -1,0 +1,47 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Hero Section */
+.hero {
+    background-image: url('https://via.placeholder.com/1600x600');
+    background-size: cover;
+    background-position: center;
+    padding: 150px 0;
+}
+
+.hero-content {
+    max-width: 600px;
+    margin: auto;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+/* Testimonials */
+.testimonials {
+    padding: 50px 0;
+}
+
+.testimonial {
+    border-radius: 5px;
+    font-style: italic;
+}
+
+/* Footer */
+footer {
+    font-size: 0.9rem;
+}

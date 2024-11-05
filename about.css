@@ -1,0 +1,46 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Mission Section */
+.mission {
+    background-image: url('https://via.placeholder.com/1600x400');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+}
+
+.mission h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.mission p {
+    font-size: 1.2rem;
+}
+
+/* Team Section */
+.team .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.team .card-title {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+/* Why Choose Us Section */
+.why-choose-us {
+    padding: 50px 0;
+}
+
+.why-choose-us h5 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.why-choose-us p {
+    font-size: 1rem;
+}
