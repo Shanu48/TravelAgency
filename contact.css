@@ -1,0 +1,34 @@
+/* styles/contact.css */
+
+body {
+    background-color: #f8f9fa; /* Light background for better contrast */
+}
+
+.contact {
+    padding: 20px; /* Add padding to the section */
+}
+
+h1 {
+    color: #343a40; /* Dark color for headings */
+    margin-bottom: 20px; /* Spacing below the heading */
+}
+
+.form-label {
+    font-weight: bold; /* Make form labels bold */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Primary button color */
+    border: none; /* Remove border */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .contact {
+        padding: 10px; /* Reduce padding on smaller screens */
+    }
+}

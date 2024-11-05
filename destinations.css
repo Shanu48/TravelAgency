@@ -1,0 +1,30 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Destinations Section */
+.destinations h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.destinations p {
+    font-size: 1.1rem;
+    color: #555;
+}
+
+.destination-card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.destination-card:hover {
+    transform: scale(1.05);
+}
+
+.destination-card img {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}

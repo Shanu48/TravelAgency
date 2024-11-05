@@ -1,0 +1,41 @@
+/* styles/destination.css */
+
+body {
+    background-color: #f8f9fa;
+}
+
+.destination-details {
+    padding: 20px;
+}
+
+.destination-details img {
+    border-radius: 8px;
+}
+
+h1 {
+    color: #343a40;
+}
+
+h3 {
+    color: #007bff;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #495057;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
