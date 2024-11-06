@@ -5,10 +5,11 @@ body {
 
 /* Mission Section */
 .mission {
-    background-image: url('https://via.placeholder.com/1600x400');
+    background-image: url('flight.jpg');
     background-size: cover;
     background-position: center;
     padding: 100px 0;
+    font-size: x-large;
 }
 
 .mission h1 {
